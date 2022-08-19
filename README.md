@@ -29,8 +29,16 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 The following animation shows the web application's appearance and functionality:
 
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+![portfolio demo](./Assests/Untitled_%20Aug%2018,%202022%206_21%20PM.gif)
 
 ## Github
 
 https://github.com/Abou2022/my-portfolio
+
+## Question
+
+syllabakary2002@gmail.com
+
+---
+
+© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
