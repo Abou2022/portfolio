@@ -3,9 +3,9 @@
     ## Table of Contents:
 
     1. Descriptions
-    2. Mock-Up
-    3. Github
-    4.Question
+    2. Installation
+    3. Mock-Up
+    4. Question
 
 ## Description
 
@@ -25,19 +25,22 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
+## Installation
+
+This app will run in the browser and feature dynamically update Html and CSS.
+
 ## Mock-Up
 
 The following animation shows the web application's appearance and functionality:
 
 ![portfolio demo](./Assests/Untitled_%20Aug%2018,%202022%206_21%20PM.gif)
 
-## Github
-
-https://github.com/Abou2022/my-portfolio
-
 ## Question
 
-syllabakary2002@gmail.com
+For any question, you can email me or reach out via Github:
+
+- [email](mailto:syllabakary2002@gmail.com)
+- [Github](https://github.com/Abou2022/my-portfolio)
 
 ---
 
