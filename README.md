@@ -5,7 +5,7 @@
     1. Descriptions
     2. Installation
     3. Mock-Up
-    4. Question
+    4. Questions
 
 ## Description
 
@@ -35,7 +35,7 @@ The following animation shows the web application's appearance and functionality
 
 ![portfolio demo](./Assests/Untitled_%20Aug%2018,%202022%206_21%20PM.gif)
 
-## Question
+## Questions
 
 For any question, you can email me or reach out via Github:
 
